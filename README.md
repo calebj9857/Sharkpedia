@@ -579,6 +579,7 @@
               </div>
             </div>
           </div>
+         
           <!-- Shortfin Mako Shark -->
           <div class="shark-card">
             <div class="card-image-wrap">
