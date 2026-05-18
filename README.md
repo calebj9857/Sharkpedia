@@ -1,4 +1,3 @@
-# Sharkpedia
 <!DOCTYPE html>
 <html>
   <head>
@@ -580,7 +579,24 @@
               </div>
             </div>
           </div>
-
+          <!-- Shortfin Mako Shark -->
+          <div class="shark-card">
+            <div class="card-image-wrap">
+              <img src="shortfin-mako-Mark-Conlin-SWFSC-Large-Pelagics-Program.jpg" alt="Image description" />
+              <span class="status-badge status-en">Endangered</span>
+            </div>
+            <div class="card-body">
+              <p class="card-tag">Lamniformes</p>
+              <h2 class="card-name">Shortfin Mako Shark</h2>
+              <p class="card-latin">Isurus oxyrinchus</p>
+              <p class="card-desc">The shortfin mako is the ocean's fastest shark, reaching hunting speeds of 46 mph. Because it reproduces slowly—with females taking nearly 20 years to mature—overfishing and the fin trade have driven this apex predator to Endangered status, triggering strict international fishing bans to prevent its collapse.</p>
+              <div class="card-stats">
+                <div class="cstat"><span class="cstat-val">2.1 m</span><span class="cstat-key">Avg. length</span></div>
+                <div class="cstat"><span class="cstat-val">~30 yr</span><span class="cstat-key">Lifespan</span></div>
+                <div class="cstat"><span class="cstat-val">TemperateTropical seas</span><span class="cstat-key">Range</span></div>
+              </div>
+            </div>
+          </div>
           <!-- Thresher Shark -->
           <div class="shark-card">
             <div class="card-image-wrap">
