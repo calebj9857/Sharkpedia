@@ -594,7 +594,7 @@
               <div class="card-stats">
                 <div class="cstat"><span class="cstat-val">2.1 m</span><span class="cstat-key">Avg. length</span></div>
                 <div class="cstat"><span class="cstat-val">~30 yr</span><span class="cstat-key">Lifespan</span></div>
-                <div class="cstat"><span class="cstat-val">TemperateTropical seas</span><span class="cstat-key">Range</span></div>
+                <div class="cstat"><span class="cstat-val">Temperate-tropical</span><span class="cstat-key">Range</span></div>
               </div>
             </div>
           </div>
